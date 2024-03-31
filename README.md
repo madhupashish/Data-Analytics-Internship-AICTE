@@ -42,8 +42,11 @@ Our project leverages several cutting-edge technologies to enable efficient heal
 
 By harnessing the capabilities of these technologies, our project facilitates efficient healthcare data management, advanced analytics, and data-driven decision-making, ultimately leading to improved patient care outcomes and operational efficiency within healthcare organizations.
 
+
 # Model 
 ![image](https://github.com/madhupashish/Data-Analytics-Internship-AICTE/assets/119279720/6004b1f9-2d31-4ae0-86a4-8b8150c134cf)
+
+
 
 **Conclusion:**
 
