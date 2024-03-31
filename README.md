@@ -42,6 +42,9 @@ Our project leverages several cutting-edge technologies to enable efficient heal
 
 By harnessing the capabilities of these technologies, our project facilitates efficient healthcare data management, advanced analytics, and data-driven decision-making, ultimately leading to improved patient care outcomes and operational efficiency within healthcare organizations.
 
+# Model 
+![image](https://github.com/madhupashish/Data-Analytics-Internship-AICTE/assets/119279720/6004b1f9-2d31-4ae0-86a4-8b8150c134cf)
+
 **Conclusion:**
 
 Our project demonstrates the significance of leveraging data-driven approaches in healthcare decision-making. By effectively analyzing and visualizing healthcare data, we have shown the potential to improve patient outcomes, optimize resource utilization, and enhance overall healthcare delivery. Through advanced modeling techniques and insightful results, we have laid the foundation for future advancements in healthcare analytics. Moving forward, it is essential to continue refining and expanding these methodologies to address evolving challenges and opportunities in the healthcare landscape. Ultimately, our efforts aim to contribute to the advancement of healthcare systems worldwide, fostering a culture of innovation and excellence in patient care.
